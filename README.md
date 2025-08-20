@@ -74,6 +74,6 @@ Clustering helps businesses understand customer behavior and target specific gro
 
 ## 📌 Dataset Source
 
-[Kaggle – Mall Customer Segmentation Data]([https://www.kaggle.com/datasets/shwetabh123/mall-customers](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python))
+[Kaggle – Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ---
