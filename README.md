@@ -56,8 +56,7 @@ Clustering helps businesses understand customer behavior and target specific gro
 
 1. Clone this repository:
 
-   ```bash
-git clone https://github.com/mariammothmman/customer-segmentation.git
+   ```bash git clone https://github.com/mariammothmman/customer-segmentation.git
    ```
 2. Install dependencies:
 
